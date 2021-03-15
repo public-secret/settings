@@ -1,0 +1,12 @@
+#!WasteNoTime Blocklist v1.0
+
+# KOL about car
+*.autohome.com.cn
+*.bydauto.com.cn
+*.dongchedi.com
+*.pcauto.com.cn
+*.pcvideo.com.cn
+
+# official websites of car manufacturer
+*.bydauto.com.cn
+*.geely.com
