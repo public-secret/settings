@@ -10,3 +10,15 @@
 # official websites of car manufacturer
 *.bydauto.com.cn
 *.geely.com
+
+# news
+*.bbc.com
+*.ithome.com
+
+# social media
+*.facebook.com
+*.twitter.com
+*.weibo.com
+*.zhihu.com
+*.tieba.baidu.com
+*.bilibili.com
