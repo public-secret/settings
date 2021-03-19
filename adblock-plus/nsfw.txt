@@ -1,0 +1,11 @@
+[Adblock Plus 3.10]
+! fap-nation
+fap-nation.com##iframe
+
+! xvideos
+www.xvideos.com###video-ad
+www.xvideos.com###ad-footer
+www.xvideos.com##.thumb-ad
+
+! pornhub
+pornhub.com##iframe
