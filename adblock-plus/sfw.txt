@@ -1,0 +1,23 @@
+[Adblock Plus 3.10]
+
+! 百度搜索结果页
+baidu.com##div[cmatchid]
+baidu.com###content_right
+baidu.com#?#div:-abp-has(>div.f13>.ec_tuiguang_pplink)
+
+! 百度知道页
+zhidao.baidu.com###qbleftdown-container
+
+! 百度贴吧
+tieba.baidu.com##div[ad-dom-img]
+tieba.baidu.com###banner_pb_customize
+tieba.baidu.com##div.fengchao-wrap-feed
+tieba.baidu.com##li>div.t_con.clearfix
+
+! 百度百科
+baike.baidu.com##.lemmaWgt-promotion-slide
+baike.baidu.com##.right-ad
+baike.baidu.com##.lemmaWgt-promotion-vbaike
+baike.baidu.com##.after-content
+baike.baidu.com###side_box_unionAd
+baike.baidu.com##.topA
