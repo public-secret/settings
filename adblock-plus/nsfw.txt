@@ -3,9 +3,19 @@
 fap-nation.com##iframe
 
 ! xvideos
-www.xvideos.com###video-ad
+! -- 底部广告
+www.xvideos.com##.remove-ads
 www.xvideos.com###ad-footer
+! -- 播放页右侧广告
+www.xvideos.com###video-ad
+! -- 主页广告
 www.xvideos.com##.thumb-ad
 
 ! pornhub
+! -- 主页右侧广告
+pornhub.com##.sniperModeEngaged
+! -- 一般广告
 pornhub.com##iframe
+
+! hentai
+twhentai.com##iframe

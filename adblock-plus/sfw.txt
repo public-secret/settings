@@ -21,3 +21,48 @@ baike.baidu.com##.lemmaWgt-promotion-vbaike
 baike.baidu.com##.after-content
 baike.baidu.com###side_box_unionAd
 baike.baidu.com##.topA
+
+! Gamersky
+gamersky.com##.Slides_ad
+gamersky.com###FuGai
+gamersky.com##div[id*="adscontainer"]
+gamersky.com##.bgAdWrap
+gamersky.com##div[class*="gsBackground"]
+gamersky.com###adTips
+gamersky.com##div[id*="new_page"]
+gamersky.com##.ad_r
+
+! Google
+google.com##.uEierd
+
+! Youtube
+youtube.com##.ytp-ad-overlay-slot
+
+! CSDN
+csdn.net##.toolbar-advert
+blog.csdn.net###recommend-item-box-tow
+blog.csdn.net###recommendAdBox
+blog.csdn.net###passportbox
+
+! 廖雪峰
+www.liaoxuefeng.com##iframe
+www.liaoxuefeng.com##div[id*="sponsor"]
+
+! 阮一峰
+ruanyifeng.com###cre
+
+! Bilibili
+bilibili.com##.bilibili-player-popup-padding
+bilibili.com###slide_ad
+bilibili.com###reco_list
+bilibili.com###right-bottom-banner
+bilibili.com###live_recommand_report
+bilibili.com##.vcd
+bilibili.com###activity_vote
+bilibili.com###bannerAd
+
+! W3School
+www.w3schools.com##iframe
+
+! 爱奇艺
+iqiyi.com##div[data-adzone]
