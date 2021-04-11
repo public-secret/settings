@@ -8,8 +8,24 @@
 *.pcvideo.com.cn
 
 # official websites of car manufacturer
+## 比亚迪
 *.bydauto.com.cn
+## 吉利
 *.geely.com
+## 领克
+*.lynkco.com.cn
+## 长城
+*.gwm.com.cn
+## 欧拉
+*.oraev.com
+## 五菱
+*.wuling.com
+## wey
+*.wey.com
+## 红旗
+*.hongqi.faw.cn
+## 奔腾
+*.faw-benteng.com
 
 # news
 *.bbc.com
