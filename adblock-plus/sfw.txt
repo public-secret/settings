@@ -66,3 +66,8 @@ www.w3schools.com##iframe
 
 ! 爱奇艺
 iqiyi.com##div[data-adzone]
+
+! 知乎推荐和热榜
+zhihu.com###TopstoryContent
+! 知乎热搜
+zhihu.com##.SearchSideBar

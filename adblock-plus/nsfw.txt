@@ -19,3 +19,6 @@ pornhub.com##iframe
 
 ! hentai
 twhentai.com##iframe
+
+! hpjav
+hpjav.tv##iframe
